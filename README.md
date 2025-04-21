@@ -23,3 +23,21 @@ This project is an IoT system performance monitoring and analytics solution desi
 - **Frameworks**: React
 - **Database**: PostgreSQL
 - **Tools**: MQTT
+
+## Images of Output
+
+![image](https://github.com/user-attachments/assets/60243fe1-9262-471e-a917-d68579b11215)
+
+![image](https://github.com/user-attachments/assets/3b2a6e6f-7c2c-46a4-ab01-e6f3ebbd2cc0)
+
+![image](https://github.com/user-attachments/assets/6642f34c-076c-4c17-bcce-27d0846bf881)
+
+![image](https://github.com/user-attachments/assets/5b58c71f-1e32-4cd1-a35e-68739e851702)
+
+![image](https://github.com/user-attachments/assets/48a8cf65-111f-4244-b6bf-a0fa63896698)
+
+![image](https://github.com/user-attachments/assets/aceff137-e480-4280-a178-7a39f505b319)
+
+
+
+
